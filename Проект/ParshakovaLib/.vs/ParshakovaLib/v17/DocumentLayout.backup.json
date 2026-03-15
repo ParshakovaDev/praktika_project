@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1207D47-0508-4BB7-AD71-2E1026F1B2B1}|ParshakovaTests\\ParshakovaTests.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovatests\\parshakovatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1207D47-0508-4BB7-AD71-2E1026F1B2B1}|ParshakovaTests\\ParshakovaTests.csproj|solutionrelative:parshakovatests\\parshakovatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|solutionrelative:parshakovawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|solutionrelative:parshakovawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovalib\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|solutionrelative:parshakovalib\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovalib\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|solutionrelative:parshakovalib\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovalib\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|solutionrelative:parshakovalib\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovalib\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|solutionrelative:parshakovalib\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovawpf\\saleaddeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|solutionrelative:parshakovawpf\\saleaddeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovawpf\\partneraddeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|solutionrelative:parshakovawpf\\partneraddeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovawpf\\saleaddeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8D52E4B-B05D-487E-A8D8-EDA721B956B1}|ParshakovaWpf\\ParshakovaWpf.csproj|solutionrelative:parshakovawpf\\saleaddeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\\u0434\u0435\u043D\u044C\u0433\u0438\\\u043F.\u043F\\\u043F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u043F\u0440\u043E\u0435\u043A\u0442\\parshakovalib\\parshakovalib\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A89297-254E-4F48-8A79-846E5849EFFE}|ParshakovaLib\\ParshakovaLib.csproj|solutionrelative:parshakovalib\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Models\\Partner.cs",
+              "RelativeDocumentMoniker": "ParshakovaLib\\Models\\Partner.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Models\\Partner.cs",
+              "RelativeToolTip": "ParshakovaLib\\Models\\Partner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:53:17.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaleAddEditWindow.xaml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\SaleAddEditWindow.xaml",
+              "RelativeDocumentMoniker": "ParshakovaWpf\\SaleAddEditWindow.xaml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\SaleAddEditWindow.xaml",
+              "RelativeToolTip": "ParshakovaWpf\\SaleAddEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-14T18:43:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartnerAddEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\PartnerAddEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ParshakovaWpf\\PartnerAddEditWindow.xaml.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\PartnerAddEditWindow.xaml.cs",
+              "RelativeToolTip": "ParshakovaWpf\\PartnerAddEditWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:40:07.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ParshakovaWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ParshakovaWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:37:20.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ParshakovaWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\MainWindow.xaml",
+              "RelativeToolTip": "ParshakovaWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-14T18:35:29.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Service.cs",
+              "RelativeDocumentMoniker": "ParshakovaLib\\Service.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Service.cs",
+              "RelativeToolTip": "ParshakovaLib\\Service.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vy0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:33:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\IService.cs",
+              "RelativeDocumentMoniker": "ParshakovaLib\\IService.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\IService.cs",
+              "RelativeToolTip": "ParshakovaLib\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:33:12.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ParshakovaLib\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "ParshakovaLib\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:32:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParshakovaTests.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaTests\\ParshakovaTests.cs",
+              "RelativeDocumentMoniker": "ParshakovaTests\\ParshakovaTests.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaTests\\ParshakovaTests.cs",
+              "RelativeToolTip": "ParshakovaTests\\ParshakovaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:51:17.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "ParshakovaLib\\Models\\Discount.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaLib\\Models\\Discount.cs",
+              "RelativeToolTip": "ParshakovaLib\\Models\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:50:19.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleAddEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\SaleAddEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ParshakovaWpf\\SaleAddEditWindow.xaml.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430\\\u0414\u0435\u043D\u044C\u0433\u0438\\\u041F.\u041F\\\u041F\u0430\u0440\u0448\u0430\u043A\u043E\u0432\u0430\\gith\\praktika_project\\\u041F\u0440\u043E\u0435\u043A\u0442\\ParshakovaLib\\ParshakovaWpf\\SaleAddEditWindow.xaml.cs",
+              "RelativeToolTip": "ParshakovaWpf\\SaleAddEditWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:43:53.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
